@@ -1,4 +1,4 @@
-package com.globant.java.homework3;
+package com.globant.java.menu;
 
 public class Dish {
     private String dish;
