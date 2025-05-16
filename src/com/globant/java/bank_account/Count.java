@@ -1,3 +1,5 @@
+package com.globant.java.bank_account;
+
 public class Count {
     private float amount;
 

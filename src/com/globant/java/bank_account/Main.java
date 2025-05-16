@@ -1,4 +1,4 @@
-import com.globant.java.calculadora.Calculadora;
+package com.globant.java.bank_account;
 
 import java.util.Scanner;
 

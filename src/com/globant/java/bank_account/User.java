@@ -1,3 +1,5 @@
+package com.globant.java.bank_account;
+
 import java.util.Scanner;
 
 public class User {
